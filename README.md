@@ -1,5 +1,6 @@
 # toy-BERT
 A toy implementation of BERT i built from scratch
+
 Caveats:
 - It is trained on a very small piece of data
 - It has not NSP added in the pretraining according to the paper, but it is really easy to do so.
