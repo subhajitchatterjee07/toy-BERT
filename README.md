@@ -1,5 +1,5 @@
 # toy-BERT
-A toy implementation of BERT i built from scratch
+A toy implementation of BERT i built from scratch 
 
 Caveats:
 - It is trained on a very small piece of data
